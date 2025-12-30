@@ -1,4 +1,4 @@
-# Smart ETA Monitor
+# 🚚 Smart ETA Monitor
 **Smart ETA Monitor** is a **machine learning–based dashboard** for predicting **delivery ETA (in minutes)** in last-mile delivery operations.
 Beyond prediction, the application provides model diagnostics (residual analysis, segment error), global explainability, and late-risk prioritization using lift/gain analysis to support data-driven operational decisions.
 
